@@ -113,7 +113,7 @@ html {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   min-width: 300px;
-  overflow-x: hidden;
+  overflow-x: visible;
   overflow-y: scroll;
   text-rendering: optimizeLegibility;
 }
