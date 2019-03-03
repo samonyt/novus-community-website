@@ -113,7 +113,7 @@ html {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   min-width: 300px;
-  overflow-x: visible;
+  overflow-x: inherit;
   text-rendering: optimizeLegibility;
 }
 
