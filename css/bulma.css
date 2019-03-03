@@ -114,7 +114,6 @@ html {
   -webkit-font-smoothing: antialiased;
   min-width: 300px;
   overflow-x: visible;
-  overflow-y: scroll;
   text-rendering: optimizeLegibility;
 }
 
