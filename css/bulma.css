@@ -6087,7 +6087,7 @@ a.nav-item:not(.button).is-tab.is-active {
 }
 
 .navbar {
-  background-color: white;
+  background-color: #5123be;
   min-height: 3.25rem;
   position: relative;
 }
@@ -6196,7 +6196,7 @@ a.nav-item:not(.button).is-tab.is-active {
 
 .navbar-item,
 .navbar-link {
-  color: #4a4a4a;
+  color: #ffffff;
   display: block;
   line-height: 1.5;
   padding: 0.5rem 1rem;
